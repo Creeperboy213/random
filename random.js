@@ -34,7 +34,7 @@ function createRandomScene() {
     // Generate a random number between 0 and 1, and store it in a variable.
     
     // If the number is less than 0.33, call the function to create your first scene.
-    
+    var myNumber = Math.random()
     
     
     // Else, if the number is less than 0.67, call the function to create your second scene.
